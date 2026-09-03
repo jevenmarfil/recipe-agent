@@ -1,0 +1,18 @@
+# Phase 1
+# google-generativeai   # or whichever free-tier client you pick
+# python-dotenv
+
+# Phase 2
+# langchain
+# chromadb  (or faiss-cpu)
+
+# Phase 3
+# langgraph
+# mcp
+
+# Phase 4
+# fastapi
+# uvicorn
+
+# Phase 5 (added when you swap to real Claude API)
+# anthropic

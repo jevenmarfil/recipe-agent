@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node / Vue
+node_modules/
+dist/
+
+# Data (uncomment if your recipe dataset is large)
+# backend/data/recipes/*
+
+# OS
+.DS_Store
