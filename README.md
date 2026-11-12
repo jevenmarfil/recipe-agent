@@ -107,7 +107,7 @@ be committed or pushed to GitHub, which is intentional (never share API keys in 
 
 ### Phase 1 — Claude API + SDK basics
 - [ ] `config.py` — env vars, model settings
-- [ ] `llm/client.py` — basic LLM call wrapper (Gemini free tier)
+- [x] `llm/client.py` — basic LLM call wrapper (Gemini free tier)
 - [ ] Tested a plain no-tools, no-RAG call
 - [ ] Understand: message structure, system vs user prompt, streaming vs non-streaming
 - **Notes:**
