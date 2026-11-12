@@ -1,0 +1,57 @@
+{
+  "id": "recipe_001",
+  "title": "Chicken Adobo",
+  "description": "A Filipino chicken dish braised in soy sauce and vinegar.",
+  "status": "finished",
+  "cuisine": "Filipino",
+  "category": "Main Course",
+  "tags": [
+    "chicken",
+    "easy",
+    "savory"
+  ],
+  "servings": 4,
+  "times": {
+    "prep_minutes": 15,
+    "cook_minutes": 45
+  },
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "vinegar",
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": "garlic",
+      "quantity": 1,
+      "unit": "piece",
+      "note": "head, minced"
+    }
+  ],
+  "instructions": [
+    "Combine the chicken, soy sauce, vinegar, and garlic.",
+    "Marinate for 30 minutes.",
+    "Simmer until the chicken is tender."
+  ],
+  "nutrition_per_serving": {
+    "calories": 450,
+    "protein_g": 38,
+    "carbohydrates_g": 8,
+    "fat_g": 28
+  },
+  "dietary": [],
+  "source": {
+    "name": "Example",
+    "url": "https://example.com/recipe"
+  }
+}
