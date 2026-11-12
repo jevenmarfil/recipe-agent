@@ -106,10 +106,11 @@ be committed or pushed to GitHub, which is intentional (never share API keys in 
 > half-finished or any decision you made mid-phase.
 
 ### Phase 1 — Claude API + SDK basics
-- [ ] `config.py` — env vars, model settings
+- [x] `config.py` — env vars, model settings
 - [x] `llm/client.py` — basic LLM call wrapper (Gemini free tier)
-- [ ] Tested a plain no-tools, no-RAG call
+- [x] Tested a plain no-tools, no-RAG call
 - [ ] Understand: message structure, system vs user prompt, streaming vs non-streaming
+
 - **Notes:**
 
 ### Phase 2 — Tool use + RAG
@@ -165,3 +166,4 @@ be committed or pushed to GitHub, which is intentional (never share API keys in 
 > losing context between sessions.
 
 - `YYYY-MM-DD` — Project structure designed, git set up.
+- `2026-11-12` — Added schemas.py (Pydantic Recipe model), recipes.json sample data, fixed requirements.txt. Next: loader.py + dataset.
